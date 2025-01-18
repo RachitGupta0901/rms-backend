@@ -2,51 +2,7 @@
 node_modules/
 npm-debug.log
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-ENV/
-venv.bak/
-*.egg-info/
-*.egg
 
-# Java
-*.class
-*.jar
-*.war
-*.ear
-target/
-
-# Ruby
-*.gem
-log/
-tmp/
-vendor/bundle/
-.DS_Store
-
-# macOS
-.DS_Store
-
-# Visual Studio Code
-.vscode/
-
-# IDEs
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# Build directories
-dist/
-build/
-
-# Coverage reports
-coverage/
-*.cover
 
 # Environment variables
 .env
